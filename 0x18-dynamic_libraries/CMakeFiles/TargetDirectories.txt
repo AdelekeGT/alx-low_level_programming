@@ -1,0 +1,2 @@
+/home/jupiter/alx-low_level_programming/0x18-dynamic_libraries/CMakeFiles/edit_cache.dir
+/home/jupiter/alx-low_level_programming/0x18-dynamic_libraries/CMakeFiles/rebuild_cache.dir
